@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "ProjetoFilmesImdb"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "0047a9b8-5615-4712-a474-b587769088f2"
+  }
+}
